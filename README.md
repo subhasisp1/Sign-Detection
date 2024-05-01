@@ -9,6 +9,6 @@ Steps To Run
 Models present:
 2 tflite models are present in models directory. Model1.tflite consist of 10 classes where place identification boards are present . Model2.tflite consiste of 9 classes where place identification sign board is absent. Place Identification board was added for future scopre of OCR detection in sign boards. By default Model2.tflite is trained.tflite model stored in previous directory.
 
-##Additional Info 
+## Additional Info 
 1. Device blinks blue light when connected to WiFi.
 2. Device blinks yellow light when other device open the link to view camera output.
