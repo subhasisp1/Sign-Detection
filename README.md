@@ -47,7 +47,8 @@ Video Link- https://youtube.com/shorts/v9UbFSp_xE8
 	<img src="images/team.jpg">
 </div> 
 
-**Mentor : Prof. Pandarasamy Arjunan** \
+**Mentor : Prof. Pandarasamy Arjunan**  
+
 **Kunal Wasnik** (L to R in above image) \
 **Sanjay Kumar**  \
 **Subhasis Panda** 
