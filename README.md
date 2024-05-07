@@ -1,7 +1,7 @@
 # Sign-Detection using Nicla Vision
 
 <div align="center">
-	<img src="images/device.jpg" width="400px">
+	<img src="images/device.jpg" width="600px">
 </div> 
 
 
