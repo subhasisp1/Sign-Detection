@@ -1,6 +1,9 @@
 # Sign-Detection using Nicla Vision
 
-![device](images/device.jpg)
+<div align="center">
+	<img src="images/device.jpg" width="400px">
+</div> 
+
 
 Steps To Run 
 1. Change WiFi credentials SSID , KEY to your WiFi name and password in main.py
