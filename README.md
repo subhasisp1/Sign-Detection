@@ -39,8 +39,8 @@ Steps To Run
 
 
 ## Device Testing video
-Video Link- https://youtube.com/shorts/v9UbFSp_xE8
-
+Video Link : https://youtube.com/shorts/v9UbFSp_xE8
+Report : [Report/Report](https://github.com/subhasisp1/Sign-Detection/blob/main/Report/Report.pdf)
 
 ## Future Tasks
 * Adding OCR to place identification images.
