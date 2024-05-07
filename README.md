@@ -12,3 +12,6 @@ Models present:
 ## Additional Info 
 1. Device blinks blue light when connected to WiFi.
 2. Device blinks yellow light when other device open the link to view camera output.
+
+## Device Testing video
+Video Link- https://youtube.com/shorts/v9UbFSp_xE8
