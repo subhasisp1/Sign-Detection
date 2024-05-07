@@ -26,9 +26,10 @@ Steps To Run
 
 
 
-# Capturing images using Nicla Vision
+## Capturing images using Nicla Vision
   ![pindiagram](images/pindiagram.png)
-  
+
+  Following steps can be performed to capturing images using Nicla Vision for creating your own dataset.
 1.  Connect a Button to Nicla Vision A0 and GND.
 2.  Store the main.py file present in Capture_Picture folder present in Nicla Vision Folder.
 3. Change WiFi credentials SSID , KEY to your WiFi name and password in main.py
