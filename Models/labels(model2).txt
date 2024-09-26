@@ -1,0 +1,9 @@
+background
+Assembly_point
+Go_slow
+No_Parking
+No_honking
+Parking
+Road_hump
+stop
+thirty
