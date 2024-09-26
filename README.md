@@ -4,6 +4,8 @@
 	<img src="images/device.jpg" width="600px">
 </div> 
 
+NOTE : 
+On newer version of openmv IDE , syntax is changed . You may have to change the code according to the different syntax (You may refer examples related to machine learning model in openmv IDE on how to make necessary changes.). Code is tested and works for openmv IDE version 4.1.5
 
 Steps To Run 
 1. Change WiFi credentials SSID , KEY to your WiFi name and password in main.py
